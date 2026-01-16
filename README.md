@@ -57,10 +57,6 @@
 #### 方式二：开发者模式加载
 
 1. **下载插件**
-   ```bash
-   git clone <repository-url>
-   cd Test-hyor2v
-   ```
 
 2. **加载到 Premiere Pro**
    - 打开 **UXP Developer Tools** 应用
@@ -166,3 +162,4 @@ Adobe Confidential - Copyright 2025 Adobe
 ## 🙋 支持
 
 如有问题或建议，请查看项目文档或提交 Issue。
+
